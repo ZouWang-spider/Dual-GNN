@@ -1,0 +1,12 @@
+Epoch 1/50:
+Aspect-Opinion Loss: 0.9617,Sentiment Loss: 1.2507,Total Loss: 1.1062
+Aspect-Opinion Accuracy: 0.2015, Sentiment Accuracy: 0.4198, Overall Accuracy: 0.3106
+Epoch 2/50:
+Aspect-Opinion Loss: 0.8331,Sentiment Loss: 1.0138,Total Loss: 0.9235
+Aspect-Opinion Accuracy: 0.2186, Sentiment Accuracy: 0.4582, Overall Accuracy: 0.3384
+Epoch 3/50:
+Aspect-Opinion Loss: 0.8296,Sentiment Loss: 0.8230,Total Loss: 0.8263
+Aspect-Opinion Accuracy: 0.1898, Sentiment Accuracy: 0.6660, Overall Accuracy: 0.4279
+Epoch 4/50:
+Aspect-Opinion Loss: 0.8228,Sentiment Loss: 0.6816,Total Loss: 0.7522
+Aspect-Opinion Accuracy: 0.1888, Sentiment Accuracy: 0.7432, Overall Accuracy: 0.4660
