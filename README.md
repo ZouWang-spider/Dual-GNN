@@ -1,2 +1,2 @@
-# Dual-HGNN
-Dual Heterogeneous Graphs for Aspect Sentiment Triplet Extraction
+# Dual-GNN
+Dual Graphs for Aspect Sentiment Triplet Extraction
