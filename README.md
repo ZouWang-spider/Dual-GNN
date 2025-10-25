@@ -1,2 +1,3 @@
-# Dual-GNN
-Dual Graphs for Aspect Sentiment Triplet Extraction
+# Leveraging dependency and constituent graphs for aspect sentiment triplet extraction
+#Dual-GNN
+
