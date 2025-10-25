@@ -2,7 +2,7 @@
 Source codes of the our paper titled "Leveraging dependency and constituent graphs for aspect sentiment triplet
 extraction", which has been accepted by the journal Information Fusion (2026).  url: https://doi.org/10.1016/j.inffus.2025.103723
 
-<img src="https://github.com/ZouWang-spider/VLHA/blob/main/VLHA/VLHApng.png" alt="Dual-GNN Model" width="500"/>
+<img src="https://github.com/ZouWang-spider/Dual-GNN/blob/main/DualHGNN/Dual-GNN.png" alt="Dual-GNN Model" width="500"/>
 
 # Dual-GNN Framework
 
